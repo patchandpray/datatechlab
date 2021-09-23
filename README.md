@@ -1,4 +1,4 @@
-# Data Tech Lab
+# Data Tech Lab 🚀
 
 This data tech lab is intended as a learning and improvement environment for playing around and coming to grasps with cutting-edge cloud-native (data) technologies and methodologies.
 
